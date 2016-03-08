@@ -1,3 +1,5 @@
+#Visualize Hadoop output using this script
+
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
